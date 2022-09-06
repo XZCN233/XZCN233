@@ -15,4 +15,4 @@ while(dead==true){
 
 If my project helps you, please click "Star" to support it. (o゜▽゜)o☆
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XZCN233)![]([https://github-readme-stats.vercel.app/api/top-langs/?username=YanJi314](https://github-readme-stats.vercel.app/api?username=XZCN233&include_all_commits=true))
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XZCN233)![](https://github-readme-stats.vercel.app/api?username=XZCN233&include_all_commits=true)
