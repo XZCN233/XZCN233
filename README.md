@@ -11,8 +11,10 @@ while(dead==true){
 (It means: As long as I'm alive, I'll learning until I'm die.)
 ```
 
-[CLICK HERE](https://xiaozhao233.top) to go to my homepage. Welcome friends from all over the world!
+[CLICK HERE](https://xiaozhao233.top) to visit my homepage.
+[CLICK HERE](https://blog.xiaozhao233.top) to visit my blog.
+Welcome friends from all over the world!
 
 If my project helps you, please click "Star" to support it. (o゜▽゜)o☆
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XZCN233)
+![](https://github-readme-stats.hichina.tk/api/top-langs/?username=XZCN233)
