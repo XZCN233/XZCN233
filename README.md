@@ -12,7 +12,9 @@ while(dead==true){
 ```
 
 [CLICK HERE](https://xiaozhao233.top) to visit my homepage.
+
 [CLICK HERE](https://blog.xiaozhao233.top) to visit my blog.
+
 Welcome friends from all over the world!
 
 If my project helps you, please click "Star" to support it. (o゜▽゜)o☆
