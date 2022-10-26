@@ -19,4 +19,7 @@ Welcome friends from all over the world!
 
 If my project helps you, please click "Star" to support it. (o゜▽゜)o☆
 
-![](https://github-readme-stats.hichina.tk/api/top-langs/?username=XZCN233)
+### 📊GitHub Stats :
+![](https://github-readme-stats.hichina.tk/api?username=XZCN233&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=XZCN233&theme=default&hide_border=false)
+![](https://github-readme-stats.hichina.tk/api/top-langs/?username=XZCN233&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
